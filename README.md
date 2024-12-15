@@ -25,7 +25,7 @@
 4. **Autenticación**: Registro e inicio de sesión.
 
 <p align="center">
-  <img width="715" alt="Diseño ShadowTasks Penpot" src="https://github.com/Nob0dyknows99/ShadowTasks/blob/f3d9b229756207c7a5571d5f7957c2d9dd10cac3/Disen%CC%83o.png">
+  <img width="715" alt="Diseño ShadowTasks Penpot" src="https://github.com/Nob0dyknows99/NutriScan/blob/d5b0f8377ed80c2956067abb02e86b69737403ac/NutriScan.png">
 </p>
 
 ---
